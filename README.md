@@ -5,3 +5,6 @@ This analysis was to help Accountability Accounting create a cryptocurrency inve
 # Results
 
 There were 532 tradable cryptocurrencies and based on the analysis, there are 4 classes. 
+
+![](/3D.png) 
+
