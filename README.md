@@ -4,7 +4,7 @@ This analysis was to help Accountability Accounting create a cryptocurrency inve
 
 # Results
 
-There were 532 tradable cryptocurrencies and based on the analysis, there are 4 classes. 
+There were 532 tradable cryptocurrencies and based on the analysis, there are 4 classes. With this analysis, hopefully Accountability Accounting can create a successful investment portfolio for their clients!
 
 ![](/3D.png) 
 
